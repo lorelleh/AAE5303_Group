@@ -4,7 +4,7 @@
 **我們組 (WMZ)**
 
 ## Why This Name?
-The KISS principle in coding (Keep It Simple, Stupid)
+The KISS principle in coding (Keep It Simple, Stupid).
 
 ## Team Members
 
