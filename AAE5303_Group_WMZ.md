@@ -9,10 +9,10 @@ The KISS principle in coding (Keep It Simple, Stupid)
 ## Team Members
 
 ### Member 1
-- **Student ID:** 12345678
-- **Name:** John Smith
-- **Brief Introduction:** John is passionate about software engineering and has strong experience in full-stack development. He specializes in backend architecture and database design.
-- **(individual) Assignment 1:** https://github.com/yourname/assignment1
+- **Student ID:** 25001004G
+- **Name:** Man Chi Lok Louie
+- **Brief Introduction:** Self-learned coding with Google Search/Google Ai Replies, including Arduino, Google Apps Script, Excel VBA
+- **(individual) Assignment 1:** [https://github.com/yourname/assignment1](https://github.com/mcllouie/PolyU-AAE5303-assignment-1-Louie-Man)
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
 
 ### Member 2
