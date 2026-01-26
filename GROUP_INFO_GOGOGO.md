@@ -39,7 +39,7 @@ Data never rests, and neither do we.
 - **Student ID:** 25116049G
 - **Name:** Li Ziyan
 - **Brief Introduction:** Li Ziyan is a passionate learner, enjoying the process of turning ideas into functional code. She actively contributes to team projects and values the exchange of diverse perspectives.
-- **(individual) Assignment 1:** https://github.com/Li_Ziyan/assignment1
+- **(individual) Assignment 1:** [https://github.com/Li_Ziyan/assignment1](https://github.com/joyziyan678/PolyU-AAE5303-assignment-1-template.git)
 - **(individual) Assignment 2:** https://github.com/yourname/assignment2
 
 ## Group Projects
@@ -51,5 +51,5 @@ Data never rests, and neither do we.
 Up to 3 members~
 ---
 
-*Last Updated: [23/01/2026]*
+*Last Updated: [26/01/2026]*
 
