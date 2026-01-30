@@ -22,7 +22,7 @@ Emotions may be unstable, but the system remains under control.
 - **Student ID:** 25109354G
 - **Name:** SUN Haoran
 - **Brief Introduction:** Haoran focuses on visual perception and tracking, with particular interest in vision-based target tracking and state estimation for aerial systems.
-- **(individual) Assignment 1:** https://github.com/BHBAllen/assignment1
+- **(individual) Assignment 1:** https://github.com/BHBAllen/PolyU-AAE5303-assignment-1-template
 - **(individual) Assignment 2:** https://github.com/BHBAllen/assignment2
 
 ### Member 2
